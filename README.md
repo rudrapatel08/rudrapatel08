@@ -12,7 +12,7 @@
 - 👩🏻‍💻 A student/hobbyist sharing about my journey and learnings in tech <br/>
 - 👩🏻‍🎓 Currently studying Maths, Physics and Computer Science at sixth form <br/>
 - 🔭 I’m currently working on my Hand Tracking App<br/>
-- 🧠 In my free time I'm learning about data anylitics and data science and data science <br/> <br/>
+- 🧠 In my free time I'm learning about machine learning using data with different python libraries <br/> <br/>
 
 <!-- STATS BAR-->
 ![](https://github-readme-stats.vercel.app/api?username=rudrapatel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_all_commits=true)<br/>
@@ -25,9 +25,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <br/>
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
