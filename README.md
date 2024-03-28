@@ -3,24 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Rudra+Patel" />
 </h1>
 
-<!-- About me section-->
+<!-- ABOUT ME-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&height=27&lines=About+Me"/>
-👩🏻‍💻 A student/hobbyist sharing about my journey and learnings in tech <br/>
-👩🏻‍🎓 Currently studying Maths, Physics and Computer Science at sixthform <br/>
-🧠 Learning about data anylitics and data scienceand data science <br/>
+- 👩🏻‍💻 A student/hobbyist sharing about my journey and learnings in tech <br/>
+- 👩🏻‍🎓 Currently studying Maths, Physics and Computer Science at sixth form <br/>
+- 🔭 I’m currently working on my Hand Tracking App<br/>
+- 🧠 In my free time I'm learning about data anylitics and data science and data science <br/> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rudrapatel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!--
-**rudrapatel08/rudrapatel08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- STATS BAR-->
+![](https://github-readme-stats.vercel.app/api?username=rudrapatel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_all_commits=true)<br/>
