@@ -3,9 +3,7 @@
 </h1>
 
 <!-- About me section-->
-<a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=About+Me"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&height=27&lines=About+Me"/>
 👩🏻‍💻 A student/hobbyist sharing about my journey and learnings in tech <br/>
 👩🏻‍🎓 Currently studying Maths, Physics and Computer Science at sixthform <br/>
 <!--
