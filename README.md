@@ -14,6 +14,15 @@
 - 🔭 I’m currently working on my Hand Tracking App<br/>
 - 🧠 In my free time I'm learning about machine learning using data with different python libraries <br/> <br/>
 
+<div > 
+  <a href="https://linkedin.com/in/pedro-sales-muniz" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
+  </a>
+  <a href="https://rudrapatel08.github.io">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div> <br/> <br/>
+
 <!-- STATS BAR-->
 ![](https://github-readme-stats.vercel.app/api?username=rudrapatel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_all_commits=true)<br/>
 
